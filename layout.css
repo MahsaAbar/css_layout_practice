@@ -1,0 +1,91 @@
+h1 {
+    font-size:12 ;
+    font-family:'Times New Roman', Times, serif ;
+    color:rgb(0, 0, 0) ;
+    position: relative;
+    top:30px;
+    left:30px;
+    width: 1000px;
+    background-color: rgb(84, 173, 203);
+}
+
+fieldset{
+    position: relative;
+    top:40px;
+    left:30px;
+    width: 570px;
+    height: 330px;
+
+}
+#name.firstname{
+    position: relative;
+    left:100px;
+}
+legend{
+    background-color:rgb(20, 67, 83) ;
+    color: white;
+    width: 320px;
+}
+#submit{
+   background-color: rgb(79, 221, 63);
+   position: relative;
+   top: 90px;
+   left: 40px;
+}
+button{
+    background-color: rgb(184, 240, 184);
+    position: relative;
+    top: 10px;
+}
+#firstname{
+    position: relative;
+    left: 169px;
+    margin: 2px;
+    width: 200px;
+}
+#lastname{
+    position: relative;
+    left: 171px;
+    margin: 2px;
+    width: 200px;
+}
+#status,#email{
+    position: relative;
+    left: 201px;
+    margin: 2px;
+    width: 200px;
+}
+#date{
+    position: relative;
+    left: 209px;
+    margin: 2px;
+}
+#comment{
+    position: relative;
+    /* background-color: bisque; */
+    left: 178px;
+    margin: 2px;
+    top:20px;
+    width: 200px;
+    bottom: 20px;
+    /* height: 40px; */
+}
+.comment{
+    position: relative;
+    bottom: 40px;
+    height: 50px;
+    /* background-color: aquamarine; */
+}
+.lang{
+    position: relative;
+    left: 265px;
+    /* background-color: aqua; */
+    bottom: 35px;
+
+}
+.choose{
+    position: relative;
+    /* background-color: aquamarine; */
+    font-size: 5;
+    width: 220px;
+}
